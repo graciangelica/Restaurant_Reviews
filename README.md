@@ -3,11 +3,11 @@
 The goal of this project is to train the machine to understand the text reviews and can predict whether it's a positive or negative review.
 
 
-## Problem
+## Description
 
 Most of the Restaurants ask for reviews from their customers and based on the reviews the restaurant can improve customer satisfaction. So Reviews play a vital role in the successful growth of the restaurant. In this project, you asked to make a machine that can predict if the review is good or bad for the restaurant.
 
-## Solution
+## Output of the project
 
 To solve the problem we use Natural Language Processing(NLP) to teach the machine so it can understand what is written in the reviews by:
 - exploring the data, 
